@@ -7,9 +7,13 @@ I have interests in a lot of stuff, such as are environment, nature, scouts, sci
 Here are some random fun stuff I made :
 * [Minesweeper !](https://bertrand2.github.io/minesweeper/) ([repo](https://github.com/Bertrand2/minesweeper))
 * [A npm package that lets you know when you can **not** work](https://www.npmjs.com/package/@sylber/holidates-cli) ([repo](https://github.com/Bertrand2/holidates-npm-package))
-* [Pomodoro timer](https://retromodoro.netlify.app/) ([repo](https://github.com/Bertrand2/first-react-app))
+* [Pomodoro timer](https://retromodoro.netlify.app/) made with React ([repo](https://github.com/Bertrand2/first-react-app))
 * [Small UX designs inspired from Dribbble](https://bertrand2.github.io/dribble-challenge/) ([repo](https://github.com/Bertrand2/dribble-challenge))
 
+I also contributed to those projects :
+* [A forum website](https://badminton-club-bb.herokuapp.com/index.php) made using PHP ([repo](https://github.com/Bertrand2/Badminton-Club-Bain-de-Bretagne))
+* [A website designed for a restaurant](http://chaoscoffee.byethost7.com/ChaosCoffeeRestaurant/) made with a custom wordpress theme ([repo](https://github.com/Bertrand2/ChaosCoffeeRestaurant))
+* [A tree buying game](http://tree-force.herokuapp.com/) using node.js & react ([repo](https://github.com/bastlaf/Mwenbwa))
 
 …and some [presentations](https://github.com/Bertrand2/becode-watch) I made for BeCode, a belgian training for web development.
 

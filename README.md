@@ -1,6 +1,8 @@
 ### Hi there 🤠
 
-I'm Bertrand, a 24 years old guy from Belgium curious about the world who likes to learn and help others. I started programming because I felt it could be a game-changer in the educational system, but it is still not well-used. My main focuses are a greener, more accessible, open source, privacy-oriented web and better ways to learn.
+I'm Bertrand, a 25 years old guy from Belgium curious about the world who likes to learn and help others. I started programming because I felt it could be a game-changer in the educational system, but it is still not well-used. My main focuses are a greener, more accessible, open source, privacy-oriented web and better ways to learn.
+
+I currently work at Odoo.
 
 I have interests in a lot of stuff, such as are environment, nature, scouts, science and mathematics, game design,… and am always open to discover something new.
 

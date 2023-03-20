@@ -13,9 +13,9 @@ Here are some random fun stuff I made :
 * [Small UX designs inspired from Dribbble](https://bertrand2.github.io/dribble-challenge/) ([repo](https://github.com/Bertrand2/dribble-challenge))
 
 I also contributed to those projects :
-* [A forum website](https://badminton-club-bb.herokuapp.com/index.php) made using PHP ([repo](https://github.com/Bertrand2/Badminton-Club-Bain-de-Bretagne))
-* [A website designed for a restaurant](http://chaoscoffee.byethost7.com/ChaosCoffeeRestaurant/) made with a custom wordpress theme ([repo](https://github.com/Bertrand2/ChaosCoffeeRestaurant))
-* [A tree buying game](http://tree-force.herokuapp.com/) using node.js & react ([repo](https://github.com/bastlaf/Mwenbwa))
+* A forum website made using PHP ([repo](https://github.com/Bertrand2/Badminton-Club-Bain-de-Bretagne))
+* A website designed for a restaurant made with a custom wordpress theme ([repo](https://github.com/Bertrand2/ChaosCoffeeRestaurant))
+* A tree buying game using node.js & react ([repo](https://github.com/bastlaf/Mwenbwa))
 
 …and some [presentations](https://github.com/Bertrand2/becode-watch) I made for BeCode, a belgian training for web development.
 
